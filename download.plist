@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>   
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0">   
+<dict>   
+   <key>items</key>   
+   <array>   
+       <dict>   
+           <key>assets</key>   
+           <array>   
+               <dict>   
+                   <key>kind</key>   
+                   <string>software-package</string>   
+                   <key>url</key>   
+                   <string>http://58.22.127.26:8894/iosPkg/xczy_phone_ios.ipa</string>   
+               </dict>   
+           </array>   
+           <key>metadata</key>   
+           <dict>   
+               <key>bundle-identifier</key>   
+               <string>com.jsms.hs<span style="font-family:FangSong_GB2312">bundle-identifier</span><span style="font-family:FangSong_GB2312"></string></span>   
+               <key>bundle-version</key>   
+               <string>1.0</string>   
+               <key>kind</key>   
+               <string>software</string>   
+               <key>subtitle</key>   
+               <string>jsms</string>   
+               <key>title</key>   
+               <string>现场人身风险管控平台</string>   
+           </dict>   
+       </dict>   
+   </array>   
+</dict>   
+</plist>   
